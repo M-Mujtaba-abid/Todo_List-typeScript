@@ -9,7 +9,7 @@ lerna-debug.log*
 
 node_modules
 practice.tsx
-dist
+# dist
 dist-ssr
 *.local
 

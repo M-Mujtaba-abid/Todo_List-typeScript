@@ -54,7 +54,7 @@ const TaskList: React.FC = () => {
   });
 
   return (
-    <div className="flex flex-col items-center mt-10 gap-4 bg-gray-100 min-h-screen p-6">
+    <div className="flex flex-col items-center pt-12 gap-4 bg-gray-100 min-h-screen p-6">
       <h1 className="text-3xl font-bold text-gray-700 mb-4">Todo List</h1>
 
       {/* Input Section */}
